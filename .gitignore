@@ -1,0 +1,14 @@
+# AI Models & Large Files
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+
+# System & Junk
+.DS_Store
+Thumbs.db
+__pycache__/
+
+# Private Settings
+.env
+config.json
